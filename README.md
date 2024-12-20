@@ -1,4 +1,4 @@
-About Me 👨‍💻
+About Me(samson musyoka) 👨‍💻
 I am a Data Science and AI Cloud Computing Developer with a background in Information and Communication Technology (ICT). Passionate about leveraging technology to solve real-world problems, I have expertise in Python, Java, and C and specialize in building scalable applications and intelligent systems that drive innovation.
 
 My Skills 🚀
